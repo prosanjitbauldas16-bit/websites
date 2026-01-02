@@ -1,3 +1,4 @@
+![Screenshot_2025-12-31-00-37-19-413_com dts freefiremax](https://github.com/user-attachments/assets/ae5c90ec-488a-4ac7-9186-5540e23af053)
 # Introduction
 
 Shizuku can help normal apps uses system APIs directly with adb/root privileges with a Java process started with app_process.
